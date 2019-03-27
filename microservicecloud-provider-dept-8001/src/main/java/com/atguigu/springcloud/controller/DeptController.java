@@ -56,5 +56,9 @@ public class DeptController
 		}
 		return this.client;
 	}
-	
+	public void name () {
+		
+		System.out.println("test-git ");
+		
+	}
 }
